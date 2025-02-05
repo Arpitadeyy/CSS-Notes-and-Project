@@ -1,0 +1,83 @@
+{
+	"folders": [
+		{
+			"name": "Lecture 2",
+			"path": "."
+		},
+		{
+			"name": "Lecture 3",
+			"path": "../Lecture 3"
+		},
+		{
+			"name": "Lecture 4",
+			"path": "../Lecture 4"
+		},
+		{
+			"name": "Lecture 5",
+			"path": "../Lecture 5"
+		},
+		{
+			"name": "Lecture 6",
+			"path": "../Lecture 6"
+		},
+		{
+			"name": "Lecture 7 float",
+			"path": "../Lecture 7 float"
+		},
+		{
+			"name": "Lecture 8 flex",
+			"path": "../Lecture 8 flex"
+		},
+		{
+			"name": "Lecture 9",
+			"path": "../Lecture 9"
+		},
+		{
+			"name": "Lecture 10 shadows",
+			"path": "../Lecture 10 shadows"
+		},
+		{
+			"name": "Lect 11 Animations",
+			"path": "../Lect 11 Animations"
+		},
+		{
+			"name": "Lect 12 Transition",
+			"path": "../Lect 12 Transition"
+		},
+		{
+			"name": "Lect 13 Transform",
+			"path": "../Lect 13 Transform"
+		},
+		{
+			"name": "Recipe Project",
+			"path": "../Recipe Project"
+		},
+		{
+			"name": "Cards in CSS",
+			"path": "../Cards in CSS"
+		},
+		{
+			"name": "CSS Grid",
+			"path": "../CSS Grid"
+		},
+		{
+			"name": "CodeHelp Blogs",
+			"path": "../CodeHelp Blogs"
+		},
+		{
+			"name": "lect 14  responsive grid design",
+			"path": "../lect 14  responsive grid design"
+		},
+		{
+			"name": "Lect 15 CSS 3D Transform",
+			"path": "../Lect 15 CSS 3D Transform"
+		},
+		{
+			"name": "Lecture 1",
+			"path": "../Lecture 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lecture 1"
+	}
+}
